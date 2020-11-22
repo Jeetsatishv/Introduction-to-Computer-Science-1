@@ -1,0 +1,13 @@
+﻿Problem Set 5, Problem 0
+Put your response to the reading below.
+IMPORTANT: Your entire response should fit on this page.
+
+
+
+
+One of the first drawback she mentioned was loss in time for performing duplicate data transfers. However this drawback is negligible now due to fast computing processes we have. Big files are not transferred within seconds if not milliseconds. There for the loss of time when performing duplicate data transfer barely exists at this day and age, and is not very important. The other drawback was that if a subroutine does not exist, it must be programmed and added to the library. To be honest, I was struggling to understand what this means in its entirety, but creating subroutines should not be a challenge at this day and age with the knowledge we have. We have excelled intellectually to make subroutines on the fly, and as a matter of fact these days we have AI, computing things themselves without us needed to do much. 
+
+
+
+
+Hopper worked on making programming languages more user friendly for people in non-scientific and business applications. I believe this was a step in the right direction as that allows for logic to be built and the scope of a programming language to expand. Now people in business courses learn linear programming, which they would not have been able unless high-level language would not have been made. This allows makes the ability to program more accessible to people in different areas of knowledge and domain. Further on, in my opinion it makes learning how to program easier too. To me, this was one of the major ideas that took programming into the right direction and what makes it the way it is today.

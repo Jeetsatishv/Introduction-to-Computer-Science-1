@@ -1,0 +1,11 @@
+﻿Problem Set 8, Problem 0
+Put your response to the reading below.
+IMPORTANT: When you are done, you must download the file as plain-text, not as a PDF.
+Use File->Download->Plain Text.
+
+
+
+
+
+
+The error NELL system produced (the one about cookies), was something I was expecting to happen as I was reading the article. I was waiting for the author to talk about a moment when 1 word can belong to 2 different categories. I understand why this error occurred and how it leads onto a domino effect of making things worse. This is due to the fact that in the english language, many words have multiple meanings which can fall into different categories. This is big part of when we learn language as humans too. When you learn your 2nd or 3rd language, you begin to confuse words cause the have various meanings in different context, we make those errors as the NELL system did too. However we are quick to correct it once someone correct us. The NELL system will potentially need something similar, it will need someone to tell it that “hey you are making a mistake, it should be this and not that”. This happens to most people when you learn a new language. The NELL system is actually doing the same, it is learning a new language the same way we humans do. I really wish the systems learn to overcome this error themselves but it seems unlikely with the technology now. I believe a system that might work is if the machine tries to first read the information and figure out what the context it. For instance in the “internet cookies” example, the machine should have figured out that the article is from a technical standpoint, so therefore the bakery category will not make sense in it. However this raises many issues, as humans our articles/texts often contain words/phrases from different “categories” and this is what is confused to the machine. We human do not make errors cause we can associate whats an error and whats not depending on the context around any specific word. I feel like with enough training, maybe sometime in the future the NELL system will not need a human to correct it because it would have “learned” the language, the same way humans do. I have learned Russian so well now that I can figure out when one word means something else in a different context. I believe machines can do the same. It’s called “machine learning” for a reason :)
